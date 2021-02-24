@@ -1,6 +1,6 @@
 {
   "name": "gpwebpack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gpnode": "^0.0.1"
+    "gpnode": "^0.0.2"
   },
   "gitHead": "48462457761dd83ded4828e70be7f9d0377cca9a"
 }
